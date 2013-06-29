@@ -9,6 +9,14 @@
 
 var MicroJS = [
   {
+    name: "selectors.js",
+    github: "scrapmac/snippets",
+    tags: ["css", "selectors", "autocomplete", "CSS3", "HTML5"],
+    description: "A small and easy to use CSS Selectors autocompletion and suggestion library.",
+    url: "https://github.com/scrapmac/snippets/tree/master/selectors.js",
+    source: "https://github.com/scrapmac/snippets/raw/master/selectors.js/selectors.js"
+  },
+  {
     name: "sawkit-client",
     github: "cScarlson/sawkit-client",
     tags: ["websocket", "socket", "HTML5", "custom", "events", "emit", "emission", "on", "jquery"],
